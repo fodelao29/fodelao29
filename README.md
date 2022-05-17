@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋Hi there, I'm Rodolfo de la O, enthusiastic about Sports, pentesting and CTF events. 
+### 🌱 I’m currently learning Linux and cybersecurity.
+### 📫 Reach me on HTB @Fodelao29
 
 <!--
 **fodelao29/fodelao29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
